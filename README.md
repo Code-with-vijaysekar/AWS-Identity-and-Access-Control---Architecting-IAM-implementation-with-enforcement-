@@ -1,0 +1,2 @@
+# AWS-Identity-and-Access-Control---Architecting-IAM-implementation-with-enforcement-
+Designed and implemented secure AWS Identity and Access Management (IAM) architecture with role-based access control and compliance enforcement. Includes configuration of enterprise roles and policies, principle of least privilege validation through S3 and CloudWatch, and automation of compliance using AWS Config and Lambda.
